@@ -1,0 +1,1 @@
+# Tronxy-X5S-stock-1.1.7-firmware
